@@ -14,7 +14,7 @@ eureka:
     service-url:
       defaultZone: http://eureka-dev.com:7001/eureka/
 ---
-foo: 1
+foo: 2
 server:
   port: 8203
 spring:
